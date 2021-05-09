@@ -1,3 +1,11 @@
+# plain Text
+*.txt
+
+# Design
+*.psd
+*.fig
+*.xd
+
 # Logs
 logs
 *.log
